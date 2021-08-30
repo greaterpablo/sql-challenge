@@ -11,7 +11,8 @@ First of all we need to put some csv files in a way that dat could be relational
 
 taking some variables on hierarchy the realtion solution is this:
 
-[!]https://github.com/greaterpablo/sql-challenge/blob/main/EmployeesDBD.png
+![relationaldata](https://github.com/greaterpablo/sql-challenge/blob/main/EmployeesDBD.png)
+
 
 Making all of the conections we find out some relevant data:
 
