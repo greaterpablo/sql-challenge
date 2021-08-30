@@ -1,6 +1,6 @@
 #SQL Challenge
 
-In this challenge you'll find some interesting information, working in a 300K database of employee data
+In this challenge you'll find some interesting information, **working in a 300K database of employee data**
 
 First of all we need to put some csv files in a way that dat could be relational.
 
@@ -20,8 +20,9 @@ Making all of the conections we find out some relevant data:
 
 I can find some info:
 
-1.-Large databases are required to work in a only perform computer
-2.-Most employees are paid less than 40K a year what is obvious.
-3.-Staff empoyees are paid with a higer average.
+1. Large databases are required to work in a only perform computer
+2. Most employees are paid less than 40K a year what is obvious.
+3. Staff empoyees are paid with a higer average.
 
-MAde in pgAdmin 5.0
+![averagesalary](https://github.com/greaterpablo/sql-challenge/blob/main/averagesalary.png)
+![salaries](https://github.com/greaterpablo/sql-challenge/blob/main/salaries.png)
