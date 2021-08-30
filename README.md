@@ -1,4 +1,4 @@
-#SQL Challenge
+# SQL Challenge
 
 In this challenge you'll find some interesting information, **working in a 300K database of employee data**
 
