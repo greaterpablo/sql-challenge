@@ -4,12 +4,12 @@ In this challenge you'll find some interesting information, **working in a 300K 
 
 First of all we need to put some csv files in a way that dat could be relational.
 
-[departments] Department number and department name
-[dept_emp] Employee number and department number
-[dept_manager] Department number and employee number
-[employees] Employee number, employee title, birth date, last name, sex, hire date.
-[salaries] Employee number, salary
-[titles] Title id, title
+* [departments] Department number and department name
+* [dept_emp] Employee number and department number
+* [dept_manager] Department number and employee number
+* [employees] Employee number, employee title, birth date, last name, sex, hire date.
+* [salaries] Employee number, salary
+* [titles] Title id, title
 
 taking some variables on hierarchy the realtion solution is this:
 
