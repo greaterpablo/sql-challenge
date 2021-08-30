@@ -1,6 +1,6 @@
 # SQL Challenge
 
-In this challenge you'll find some interesting information, **working in a 300K database of employee data**
+## In this challenge you'll find some interesting information, **working in a 300K database of employee data**
 
 First of all we need to put some csv files in a way that dat could be relational.
 
